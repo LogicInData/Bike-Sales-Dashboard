@@ -12,9 +12,13 @@ The Bike Sales Dashboard is designed to provide a clear and interactive visualiz
 The dashboard provides insights into the following KPIs:
 
 1.Average Income: Tracks income levels across customer segments to identify purchasing power.
+
 2.Purchase Conversion Rate: Percentage of customers who purchased bikes versus those who did not.
+
 3.Commute Distance Trends: Analyzes bike purchases based on customer commuting distance.
+
 4.Customer Demographics: Breaks down bike purchases by gender, marital status, and age groups.
+
 5.Regional Sales Distribution: Highlights bike sales performance across different regions.
 
 - <a href="https://github.com/LogicInData/Bike-Sales-Dashboard/blob/main/Bike_Sales_Dasboard_IMAGE.png">VIEW DASHBOARD</a>
@@ -22,7 +26,9 @@ The dashboard provides insights into the following KPIs:
 ## KEY VISUALIZATIONS
 
 1.Income Analysis: Compare average income levels of customers based on bike purchase decisions.
+
 2.Commute Patterns: Highlight bike sales trends for various commute distances.
+
 3.Customer Segmentation: Analyze age groups, regions, and education levels to identify high-potential customer segments.
 
 ## PROCESS
